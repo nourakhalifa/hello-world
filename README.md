@@ -1,2 +1,3 @@
 # hello-world
-ABCD
+
+I'm learning how to use Github.
